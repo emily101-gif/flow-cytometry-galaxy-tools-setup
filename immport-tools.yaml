@@ -49,9 +49,9 @@ tools:
   - name: flowclr_summary
     owner: immport-devteam
     tool_panel_section_id: immport_tools
-  - name: flow_datatypes
-    owner: immport-devteam
-    tool_panel_section_id: immport_tools
+#  - name: flow_datatypes
+#    owner: immport-devteam
+#    tool_panel_section_id: immport_tools
   - name: flow_overview
     owner: immport-devteam
     tool_panel_section_id: immport_tools
