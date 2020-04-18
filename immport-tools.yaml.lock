@@ -1,0 +1,124 @@
+install_repository_dependencies: true
+install_resolver_dependencies: true
+install_tool_dependencies: false
+tools:
+- name: auto_collapse_pop
+  owner: immport-devteam
+  revisions:
+  - 7632562ada41
+  tool_panel_section_id: immport_tools
+- name: check_fcs_headers
+  owner: immport-devteam
+  revisions:
+  - d3957a51cc51
+  tool_panel_section_id: immport_tools
+- name: check_headers
+  owner: immport-devteam
+  revisions:
+  - e88c99a4fb36
+  tool_panel_section_id: immport_tools
+- name: collapse_pop
+  owner: immport-devteam
+  revisions:
+  - 59f859ea3122
+  tool_panel_section_id: immport_tools
+- name: convert_fcs_to_text
+  owner: immport-devteam
+  revisions:
+  - 8e10184368a0
+  tool_panel_section_id: immport_tools
+- name: cross_sample
+  owner: immport-devteam
+  revisions:
+  - 5f670146a9af
+  tool_panel_section_id: immport_tools
+- name: cs_overview
+  owner: immport-devteam
+  revisions:
+  - 8c17aa8032c2
+  tool_panel_section_id: immport_tools
+- name: extract_fcs_keywords
+  owner: immport-devteam
+  revisions:
+  - dc00746654dc
+  tool_panel_section_id: immport_tools
+- name: extract_pop
+  owner: immport-devteam
+  revisions:
+  - 21b2dc3934ed
+  tool_panel_section_id: immport_tools
+- name: fcs_gate_trans
+  owner: immport-devteam
+  revisions:
+  - 78b8ab344edd
+  tool_panel_section_id: immport_tools
+- name: fcs_scatterplot
+  owner: immport-devteam
+  revisions:
+  - 164cd5384f1d
+  tool_panel_section_id: immport_tools
+- name: fcs_summary
+  owner: immport-devteam
+  revisions:
+  - 1d926a8daa92
+  tool_panel_section_id: immport_tools
+- name: flowai
+  owner: immport-devteam
+  revisions:
+  - 60aa5e56531a
+  tool_panel_section_id: immport_tools
+- name: flowcl
+  owner: immport-devteam
+  revisions:
+  - fb0ee82f686d
+  tool_panel_section_id: immport_tools
+- name: flowclr_summary
+  owner: immport-devteam
+  revisions:
+  - 479ff3a9023c
+  tool_panel_section_id: immport_tools
+- name: flow_overview
+  owner: immport-devteam
+  revisions:
+  - 8283ff163ba6
+  tool_panel_section_id: immport_tools
+- name: flowtext_scatterplot
+  owner: immport-devteam
+  revisions:
+  - cc2266d3e611
+  tool_panel_section_id: immport_tools
+- name: flowtext_summary
+  owner: immport-devteam
+  revisions:
+  - d61ed37c06ee
+  tool_panel_section_id: immport_tools
+- name: generate_mfi
+  owner: immport-devteam
+  revisions:
+  - 2f6dcda6e74e
+  tool_panel_section_id: immport_tools
+- name: merge_ds_flowtext
+  owner: immport-devteam
+  revisions:
+  - '426650130311'
+  tool_panel_section_id: immport_tools
+- name: profile_cl
+  owner: immport-devteam
+  revisions:
+  - 8547aedf1350
+  tool_panel_section_id: immport_tools
+- name: rearrange_columns
+  owner: immport-devteam
+  revisions:
+  - d2cdffd27293
+  tool_panel_section_id: immport_tools
+- name: run_flock
+  owner: immport-devteam
+  revisions:
+  - 81f9b44f5242
+  tool_panel_section_id: immport_tools
+- name: txt_diagnosis
+  owner: immport-devteam
+  revisions:
+  - e1f0194cf8fc
+  tool_panel_section_id: immport_tools
