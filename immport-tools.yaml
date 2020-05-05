@@ -6,76 +6,76 @@ install_tool_dependencies: false
 tools:
   - name: auto_collapse_pop
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools 
   - name: check_fcs_headers
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: fcsfiletools
   - name: check_headers
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools
   - name: collapse_pop
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools
   - name: convert_fcs_to_text
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: fcsfiletools
   - name: cross_sample
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowanalysistools
   - name: cs_overview
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowvisualizationtools
   - name: extract_fcs_keywords
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: fcsfiletools
   - name: extract_pop
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools
   - name: fcs_gate_trans
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: fcsfiletools
   - name: fcs_scatterplot
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: fcsfiletools
   - name: fcs_summary
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: fcsfiletools
   - name: flowai
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: fcsfiletools
   - name: flowcl
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowanalysistools
   - name: flowclr_summary
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools
 #  - name: flow_datatypes
 #    owner: immport-devteam
 #    tool_panel_section_id: immport_tools
   - name: flow_overview
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowvisualizationtools
   - name: flowtext_scatterplot
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools
   - name: flowtext_summary
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools
   - name: generate_mfi
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowanalysistools
   - name: merge_ds_flowtext
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools
   - name: profile_cl
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowanalysistools
   - name: rearrange_columns
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools
   - name: run_flock
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowanalysistools
   - name: txt_diagnosis
     owner: immport-devteam
-    tool_panel_section_id: immport_tools
+    tool_panel_section_id: flowfiletools
