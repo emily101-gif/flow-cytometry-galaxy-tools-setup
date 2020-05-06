@@ -6,15 +6,15 @@ To produce lock files run and commit them to the same repo:
 
 ```
 conda activate galaxy-bioblend
-for tool_set in \$( ls *.yaml ); do
-	python scripts/fix-lockfile.py \$tool_set
-	python scripts/update-tool.py \$tool_set
+for tool_set in $( ls *.yaml ); do
+	python scripts/fix-lockfile.py $tool_set
+	python scripts/update-tool.py $tool_set
 done
 
-changes=\$( git diff --exit-code | wc | awk '{ print \$1 }' )
-if [ "\$changes" -gt 0 ]; then
+changes=$( git diff --exit-code | wc | awk '{ print $1 }' )
+if [ "$changes" -gt 0 ]; then
 	git add *.yaml.lock
-	git commit -m "Update via \$1"
+	git commit -m "Update via $1"
 else
 	echo "Nothing to commit.."
 fi
