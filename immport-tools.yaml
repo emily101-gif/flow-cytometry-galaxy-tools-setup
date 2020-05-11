@@ -79,3 +79,6 @@ tools:
   - name: txt_diagnosis
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
+  - name: upload_files
+    owner: immport-devteam
+    tool_panel_section_id: fcsfiletools
