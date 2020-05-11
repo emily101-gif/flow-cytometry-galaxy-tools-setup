@@ -82,3 +82,6 @@ tools:
   - name: upload_files
     owner: immport-devteam
     tool_panel_section_id: fcsfiletools
+  - name: edit_fcs_markers
+    owner: immport-devteam
+    tool_panel_section_id: flowfiletools
