@@ -79,3 +79,6 @@ tools:
   - name: txt_diagnosis
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
+  - name: meta_autocluster
+    owner: immport-devteam
+    tool_panel_section_id: flowanalysistools
