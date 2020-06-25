@@ -29,7 +29,7 @@ tools:
     owner: immport-devteam
     tool_panel_section_id: flowvisualizationtools
   - name: edit_fcs_markers
-    owner: immport-devteam
+    owner: azomics
     tool_panel_section_id: flowfiletools
   - name: extract_fcs_keywords
     owner: immport-devteam
@@ -103,5 +103,4 @@ tools:
   - name: txt_diagnosis
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
-
 
