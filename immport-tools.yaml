@@ -13,9 +13,6 @@ tools:
   - name: check_headers
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
-  - name: clustergrammer_flow
-    owner: immport-devteam
-    tool_panel_section_id: flowfiletools
   - name: collapse_pop
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
@@ -103,4 +100,3 @@ tools:
   - name: txt_diagnosis
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
-
